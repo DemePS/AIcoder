@@ -8,6 +8,10 @@
       "type": "stdio",
       "command": "npx",
       "args": [	"-y","@microsoft/powerbi-modeling-mcp@latest","--start"]
+    },
+    "microsoft-learn": {
+      "type": "http",
+      "url": "https://learn.microsoft.com/api/mcp"
     }
   }
 }
