@@ -1,0 +1,12 @@
+[project]
+name = "aicoder"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aio-stdout>=0.0.5",
+    "asyncio>=4.0.0",
+    "claude-agent-sdk>=0.2.87",
+    "typing>=3.10.0.0",
+]
